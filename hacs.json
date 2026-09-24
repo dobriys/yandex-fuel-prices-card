@@ -1,0 +1,6 @@
+{
+  "name": "Yandex Fuel Prices Card",
+  "filename": "yandex-fuel-prices-card.js",
+  "render_readme": true,
+  "homeassistant": "2024.11.0"
+}
